@@ -22,7 +22,7 @@ export default function Home() {
 
       <h2>How It Works</h2>
       <p>
-        GiveQuest identifies meaningful causes and supports them through direct donations and partnerships with charitable organizations. Our model is designed to maximize transparency and impact—ensuring every dollar contributes to real-world charitable outcomes.
+       GiveQuest identifies meaningful causes and supports them through direct charitable giving, qualified organizations, and mission-aligned direct-impact initiatives. Our model is designed to maximize transparency and impact—ensuring every dollar contributes to real-world charitable outcomes.
       </p>
 
       <h2>Donate</h2>
